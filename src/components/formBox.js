@@ -69,7 +69,7 @@ const FormBox = () => {
                         <button className="rounded-md m_teal-green text-white" onClick={() => goToChat()}>Go for chat</button>
                         <button className="rounded-md m_teal-green text-white" onClick={() => genQRCode()}>Generate QR code</button>
                     </div>
-                    <div id="showResult" className="flex space-x-2 justify-center pt-5"></div>
+                    <div id="showResult" className="flex space-x-2 justify-center pt-5"></div> 
                 </div>
             </div>
         </div>
